@@ -1,0 +1,43 @@
+1638176733340	geckodriver	INFO	Listening on 127.0.0.1:46107
+1638176733782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54945" "-no-remote" "-profile" "/tmp/rust_mozprofileFrGDKt"
+1638176737626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFrGDKt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54945/devtools/browser/f54e0b3b-afa9-43aa-b6d4-4c44ddf0038e
+1638176742118	Marionette	INFO	Listening on port 45111
+1638176742501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638176782339	Marionette	INFO	Stopped listening on port 45111
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638176917004	geckodriver	INFO	Listening on 127.0.0.1:36653
+1638176917009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42259" "-no-remote" "-profile" "/tmp/rust_mozprofileA49NPf"
+1638176919941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA49NPf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42259/devtools/browser/04e5e9ff-2218-49e0-b291-257c3433638a
+1638176923319	Marionette	INFO	Listening on port 40011
+1638176923914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638177211889	geckodriver	INFO	Listening on 127.0.0.1:43569
+1638177211893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51163" "-no-remote" "-profile" "/tmp/rust_mozprofilePNPg9O"
+1638177215184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePNPg9O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51163/devtools/browser/6173604e-65ae-48ab-93c9-6040a101de5c
+1638177218541	Marionette	INFO	Listening on port 33627
+1638177219134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+Unflushed glGetGraphicsResetStatus: 0x92bb
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+1638185653756	Marionette	INFO	Stopped listening on port 40011
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gdk-Message: 14:12:53.282: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
